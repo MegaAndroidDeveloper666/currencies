@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Marks Cources</string>
+
+    <string name="data_url">http://phisix-api3.appspot.com/stocks.json</string>
+
+    <string name="currency_name">Название</string>
+    <string name="currency_price">Цена</string>
+    <string name="currency_volume">Объем продаж</string>
+
+    <string name="refresh">Обновить</string>
+
+    <string name="loading_error">Ошибка загрузки</string>
+
+</resources>
